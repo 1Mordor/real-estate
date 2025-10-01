@@ -6,10 +6,10 @@
 }
 
 :root {
-    --primary-color: #208B95;
+    --primary-color: #58a6cf;
     --primary-hover: #37A6B0;
     --primary-dark: #0E5A61;
-    --text-color: #000000;
+    --text-color: #58a6cf;
     --text-light: #595959;
     --text-muted: rgba(0, 0, 0, 0.5);
     --background: #F3F3F3;
